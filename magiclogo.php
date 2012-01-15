@@ -1,6 +1,12 @@
 <?php
 /*
-	Copyright 2011 Magic Logo LLC, all rights reserved
+Plugin Name: MagicLogo
+Plugin URI: http://www.magiclogo.net
+Description: Automatically adds holiday themes to your logo that show up for the holidays and go away after they are over
+Version: 1.2.0
+Author: MagicLogo
+Author URI: http://www.magiclogo.net
+Copyright: 2011 Magic Logo LLC, all rights reserved
 */
 error_reporting(E_ALL & ~E_NOTICE);
 global $localpath;
